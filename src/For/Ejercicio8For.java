@@ -7,7 +7,7 @@ package For;
 
 /**
  *
- * @author jose.zapatagom
+ * @author jose.Jose.Alejandro
  */
 public class Ejercicio8For {
     
